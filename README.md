@@ -1,4 +1,4 @@
-# Making a Glass Detector App or Any Object Detection App
+# Making a Glass Detector App (or Any Object Detection App)
 
 Most of the training code came from [Tony607](https://github.com/Tony607/object_detection_demo) under the MIT License. 
 I made the android app using the [Object Detection Android Demo](https://github.com/tensorflow/examples/tree/master/lite/examples/object_detection/android) under the Apache 2.0 License. 
