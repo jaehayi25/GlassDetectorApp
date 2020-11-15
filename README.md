@@ -11,7 +11,7 @@ I divided the training code into three Colab Notebooks to make the steps easier 
       * pipeline.config
       * 2 tfrecords files (one containing labeled training images and the other containing labeled test images)
       * label_map.pbtxt
-  3. export-tflite.ipynb: Run this code to convert the model.ckpt and pipeline.config files into a tflite format (you will need the model.tflite file for the app) 
+  3. export_tflite.ipynb: Run this code to convert the model.ckpt and pipeline.config files into a tflite format (you will need the model.tflite file for the app) 
 
 ## Creating the App
 
